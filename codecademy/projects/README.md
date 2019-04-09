@@ -1,6 +1,4 @@
-# WebDevLearning
-
-# Codecademy
+# WebDevLearning - Codecademy
 
 **Demo**: [WebDevLearning/codecademy/](https://dinhanhthi.github.io/WebDevLearning/codecademy/)
 
