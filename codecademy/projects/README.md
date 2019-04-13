@@ -1,5 +1,7 @@
 # WebDevLearning - Codecademy
 
+My codecademy profile: [codecademy.com/dinhanhthi](https://www.codecademy.com/dinhanhthi).
+
 ## Projects
 
 From simple to advanced :
