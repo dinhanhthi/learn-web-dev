@@ -1,6 +1,7 @@
 # WebDevLearning - Codecademy
 
-My codecademy profile: [codecademy.com/dinhanhthi](https://www.codecademy.com/dinhanhthi).
+- My codecademy profile: [codecademy.com/dinhanhthi](https://www.codecademy.com/dinhanhthi).
+- [My note](https://mynote.dinhanhthi.com/tags#codecademy-web) for this repository
 
 ## Projects
 
