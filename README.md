@@ -17,5 +17,6 @@ What I've done to learn by myself web development. Before creating this reposito
 
 - **My website**: [dinhanhthi.com](https://dinhanhthi.com "My personal website")
 - **My notes**: [mynote.dinhanhthi.com](https://mynote.dinhanhthi.com "My personal notes")
+- [My note](https://mynote.dinhanhthi.com/categories#web) for Web-Dev.
 
 
