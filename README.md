@@ -1,4 +1,4 @@
-# WebDevLearning
+# web-dev-learning
 
 What I've done to learn by myself web development. Before creating this repository, I've known a little about Web Development (HTML, CSS, JS, Wordpress, PHP, Jekyll). I've learned them all just by practising. That's why I decide to learn about Web Developement more methodically.
 
