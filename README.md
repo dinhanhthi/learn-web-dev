@@ -1,22 +1,35 @@
-# web-dev-learning
+# 🕸 web-dev-learning
 
-What I've done to learn by myself web development. Before creating this repository, I've known a little about Web Development (HTML, CSS, JS, Wordpress, PHP, Jekyll). I've learned them all just by practising. That's why I decide to learn about Web Developement more methodically.
+The list of things I've finished so far on the way of learning by myself Web Development.
 
-## Courses
+- My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
+- My main notes: [dinhanhthi.com/notes](http://dinhanhthi.com/notes) (well-written notes, not only for me).
+- [My learning log](https://dinhanhthi.com/my-learning-log).
 
-- [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
-- [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy. 
+## 👨‍🏫 Courses
 
-## Case-studies
+*The "non-checked" courses are under the way to be finished!*
 
-- Design some static websites: [NoteTheme](https://github.com/dinhanhthi/NoteTheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [BetterNote](http://note.dinhanhthi.com).
-- [Wordpress](https://wordpress.com/) design with [Math2ITwp theme](https://github.com/dinhanhthi/math2itwp).
-- I've used [Bootstrap](https://getbootstrap.com) for all above themes.
+- [ ] [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
+- [ ] [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
+- [ ] [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy. 
+- [ ] [Learn JavaScript from Scratch](https://bit.ly/2Z0KPJI) on Scotch.
+- [ ] [Learn React from Scratch](https://bit.ly/2ZzJZVa) on Scotch.
 
-## About
+## ⚒️ Case-studies
 
-- **My website**: [dinhanhthi.com](https://dinhanhthi.com "My personal website")
-- **My notes**: [mynote.dinhanhthi.com](https://mynote.dinhanhthi.com "My personal notes")
-- [My note](https://mynote.dinhanhthi.com/categories#web) for Web-Dev.
+- [x] Design some static websites: [NoteTheme](https://github.com/dinhanhthi/notetheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [simple-perso](https://github.com/dinhanhthi/simple-perso).
+- [x] [Wordpress](https://wordpress.com/) design with [Math2ITwp theme](https://github.com/dinhanhthi/math2itwp).
+
+## 📖 Books
+
+- [ ] [Eloquent JavaScript](https://eloquentjavascript.net/) — This is a book about JavaScript, programming, and the wonders of the digital. 
+- [ ] [Fullstack React](https://www.fullstackreact.com/) — The up-to-date, in-depth, complete guide to React and friends.
+- [ ] [The road to learn React](https://roadtoreact.com/) — **Robin Wieruch** — teaches you the fundamentals of React. You will build a real world application along the way in plain React without complicated tooling.
 
 
+## 🌏 Other resources
+
+- [The Odin Project](https://www.theodinproject.com/) — This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+- [Scotch.io](https://scotch.io/) — Top shelf Web Development Training.
+- [freecodecamp.org](https://www.freecodecamp.org/learn) — non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
