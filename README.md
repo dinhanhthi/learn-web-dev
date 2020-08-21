@@ -10,11 +10,11 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 *The "non-checked" courses are under the way to be finished!*
 
-- [ ] [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
-- [ ] [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
-- [ ] [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy. 
-- [ ] [Learn JavaScript from Scratch](https://bit.ly/2Z0KPJI) on Scotch.
-- [ ] [Learn React from Scratch](https://bit.ly/2ZzJZVa) on Scotch.
+- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
+- [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
+- [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy.
+- [Learn JavaScript from Scratch](https://bit.ly/2Z0KPJI) on Scotch.
+- [Learn React from Scratch](https://bit.ly/2ZzJZVa) on Scotch.
 
 ## ⚒️ Case-studies
 
@@ -23,9 +23,9 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 ## 📖 Books
 
-- [ ] [Eloquent JavaScript](https://eloquentjavascript.net/) — This is a book about JavaScript, programming, and the wonders of the digital. 
-- [ ] [Fullstack React](https://www.fullstackreact.com/) — The up-to-date, in-depth, complete guide to React and friends.
-- [ ] [The road to learn React](https://roadtoreact.com/) — **Robin Wieruch** — teaches you the fundamentals of React. You will build a real world application along the way in plain React without complicated tooling.
+- [Eloquent JavaScript](https://eloquentjavascript.net/) — This is a book about JavaScript, programming, and the wonders of the digital.
+- [Fullstack React](https://www.fullstackreact.com/) — The up-to-date, in-depth, complete guide to React and friends.
+- [The road to learn React](https://roadtoreact.com/) — **Robin Wieruch** — teaches you the fundamentals of React. You will build a real world application along the way in plain React without complicated tooling.
 
 
 ## 🌏 Other resources
