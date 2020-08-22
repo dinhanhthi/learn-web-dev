@@ -1,3 +1,12 @@
 [submodule "nextjs-blog"]
 	path = nextjs-blog
 	url = git@github.com:dinhanhthi/nextjs-blog.git
+[submodule "TaniaJekyll"]
+	path = TaniaJekyll
+	url = git@github.com:dinhanhthi/TaniaJekyll.git
+[submodule "notetheme"]
+	path = notetheme
+	url = git@github.com:dinhanhthi/notetheme.git
+[submodule "simple-perso"]
+	path = simple-perso
+	url = git@github.com:dinhanhthi/simple-perso.git
