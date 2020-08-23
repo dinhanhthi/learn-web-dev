@@ -18,7 +18,7 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 ## ⚒️ Case-studies
 
-- [x] Design some static websites: [NoteTheme](https://github.com/dinhanhthi/notetheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [simple-perso](https://github.com/dinhanhthi/simple-perso).
+- [x] Design some static websites: [NoteTheme](https://github.com/dinhanhthi/notetheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [simple-perso](https://github.com/dinhanhthi/simple-perso), [dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com).
 - [x] [Wordpress](https://wordpress.com/) design with [Math2ITwp theme](https://github.com/dinhanhthi/math2itwp).
 
 ## 📖 Books
