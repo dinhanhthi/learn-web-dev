@@ -1,2 +1,2 @@
 - Source: https://codepen.io/shunyadezain/pen/GRqoWdG?editors=0100
-- Live demo.
+- [Live demo](https://dinhanhthi.com/github-html?https://github.com/dinhanhthi/web-dev-learning/blob/master/mini-projects/css-hover-folder/index.html).
