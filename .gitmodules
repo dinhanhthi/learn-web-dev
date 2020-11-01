@@ -10,3 +10,18 @@
 [submodule "simple-perso"]
 	path = simple-perso
 	url = git@github.com:dinhanhthi/simple-perso.git
+[submodule "strapi-nextjs-blog"]
+	path = strapi-nextjs-blog
+	url = git@github.com:dinhanhthi/strapi-nextjs-blog.git
+[submodule "docker-texmath"]
+	path = docker-texmath
+	url = git@github.com:math2it/docker-texmath.git
+[submodule "pobo"]
+	path = pobo
+	url = git@github.com:dinhanhthi/pobo.git
+[submodule "gatsby-site"]
+	path = gatsby-site
+	url = git@github.com:dinhanhthi/gatsby-site.git
+[submodule "notedown"]
+	path = notedown
+	url = git@github.com:dinhanhthi/notedown.git
