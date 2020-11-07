@@ -1,30 +1,30 @@
-[submodule "nextjs-blog"]
-	path = nextjs-blog
+[submodule "projects/nextjs-blog"]
+	path = projects/nextjs-blog
 	url = git@github.com:dinhanhthi/nextjs-blog.git
-[submodule "TaniaJekyll"]
-	path = TaniaJekyll
-	url = git@github.com:dinhanhthi/TaniaJekyll.git
-[submodule "notetheme"]
-	path = notetheme
+[submodule "projects/notetheme"]
+	path = projects/notetheme
 	url = git@github.com:dinhanhthi/notetheme.git
-[submodule "simple-perso"]
-	path = simple-perso
+[submodule "projects/simple-perso"]
+	path = projects/simple-perso
 	url = git@github.com:dinhanhthi/simple-perso.git
-[submodule "strapi-nextjs-blog"]
-	path = strapi-nextjs-blog
+[submodule "projects/strapi-nextjs-blog"]
+	path = projects/strapi-nextjs-blog
 	url = git@github.com:dinhanhthi/strapi-nextjs-blog.git
-[submodule "docker-texmath"]
-	path = docker-texmath
+[submodule "projects/docker-texmath"]
+	path = projects/docker-texmath
 	url = git@github.com:math2it/docker-texmath.git
-[submodule "pobo"]
-	path = pobo
+[submodule "projects/pobo"]
+	path = projects/pobo
 	url = git@github.com:dinhanhthi/pobo.git
-[submodule "gatsby-site"]
-	path = gatsby-site
+[submodule "projects/gatsby-site"]
+	path = projects/gatsby-site
 	url = git@github.com:dinhanhthi/gatsby-site.git
-[submodule "notedown"]
-	path = notedown
+[submodule "projects/notedown"]
+	path = projects/notedown
 	url = git@github.com:dinhanhthi/notedown.git
-[submodule "texmath-static"]
-	path = texmath-static
+[submodule "projects/texmath-static"]
+	path = projects/texmath-static
 	url = git@github.com:math2it/texmath-static.git
+[submodule "projects/TaniaJekyll"]
+	path = projects/TaniaJekyll
+	url = git@github.com:dinhanhthi/TaniaJekyll.git
