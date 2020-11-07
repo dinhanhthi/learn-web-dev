@@ -25,3 +25,6 @@
 [submodule "notedown"]
 	path = notedown
 	url = git@github.com:dinhanhthi/notedown.git
+[submodule "texmath-static"]
+	path = texmath-static
+	url = git@github.com:math2it/texmath-static.git
