@@ -31,3 +31,6 @@
 [submodule "projects/--force"]
 	path = projects/--force
 	url = git@github.com:dinhanhthi/TaniaJekyll.git
+[submodule "learn-angular-complete-guide"]
+	path = learn-angular-complete-guide
+	url = git@github.com:dinhanhthi/learn-angular-complete-guide.git
