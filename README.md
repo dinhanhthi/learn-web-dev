@@ -2,8 +2,8 @@
 
 The list of things I've finished so far on the way of learning by myself Web Development.
 
-- My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
 - My main notes: [dinhanhthi.com](http://dinhanhthi.com) (well-written notes, not only for me).
+- My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses -- **archival purpose only**).
 
 ## 👨‍🏫 Courses
 
