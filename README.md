@@ -3,18 +3,20 @@
 The list of things I've finished so far on the way of learning by myself Web Development.
 
 - My raw notes: [rawnote.dinhanhthi.com](http://rawnote.dinhanhthi.com) (quickly capture ideas from the courses).
-- My main notes: [dinhanhthi.com/notes](http://dinhanhthi.com/notes) (well-written notes, not only for me).
-- [My learning log](https://dinhanhthi.com/my-learning-log).
+- My main notes: [dinhanhthi.com](http://dinhanhthi.com) (well-written notes, not only for me).
 
 ## 👨‍🏫 Courses
 
 *The "non-checked" courses are under the way to be finished!*
 
-- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
-- [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
+- [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller on Udemy.
 - [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy.
+- [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
 - [Learn JavaScript from Scratch](https://bit.ly/2Z0KPJI) on Scotch.
 - [Learn React from Scratch](https://bit.ly/2ZzJZVa) on Scotch.
+- [The Odin Project](https://www.theodinproject.com/) — This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+- [Web Development](https://www.codecademy.com/paths/web-development/) path on Codecademy.
+
 
 ## ⚒️ Case-studies
 
@@ -30,6 +32,5 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 ## 🌏 Other resources
 
-- [The Odin Project](https://www.theodinproject.com/) — This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
 - [Scotch.io](https://scotch.io/) — Top shelf Web Development Training.
 - [freecodecamp.org](https://www.freecodecamp.org/learn) — non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
