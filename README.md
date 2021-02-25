@@ -7,8 +7,6 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 ## 👨‍🏫 Courses
 
-*The "non-checked" courses are under the way to be finished!*
-
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/) by Maximilian Schwarzmüller on Udemy.
 - [Create a Back-End App with JavaScript](https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript) path on Codecademy.
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn) (*300 hours*) on freecodecamp.
@@ -20,8 +18,8 @@ The list of things I've finished so far on the way of learning by myself Web Dev
 
 ## ⚒️ Case-studies
 
-- [x] Design some static websites: [NoteTheme](https://github.com/dinhanhthi/notetheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [simple-perso](https://github.com/dinhanhthi/simple-perso), [dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com).
-- [x] [Wordpress](https://wordpress.com/) design with [Math2ITwp theme](https://github.com/dinhanhthi/math2itwp).
+- Design some static websites: [NoteTheme](https://github.com/dinhanhthi/notetheme), [TaniaJekyll](https://github.com/dinhanhthi/TaniaJekyll), [simple-perso](https://github.com/dinhanhthi/simple-perso), [dinhanhthi.com](https://github.com/dinhanhthi/dinhanhthi.com).
+- [Wordpress](https://wordpress.com/) design with [Math2ITwp theme](https://github.com/dinhanhthi/math2itwp).
 
 ## 📖 Books
 
