@@ -34,3 +34,18 @@
 [submodule "mooc/learn-angular-complete-guide"]
 	path = mooc/learn-angular-complete-guide
 	url = git@github.com:dinhanhthi/learn-angular-complete-guide.git
+[submodule "playground/google-api-playground"]
+	path = playground/google-api-playground
+	url = https://github.com/dinhanhthi/google-api-playground.git
+[submodule "projects/dinhanhthi.com-v4-gatsby"]
+	path = projects/dinhanhthi.com-v4-gatsby
+	url = https://github.com/dinhanhthi/dinhanhthi.com-v4-gatsby.git
+[submodule "projects/dinhanhthi.com-v1"]
+	path = projects/dinhanhthi.com-v1
+	url = https://github.com/dinhanhthi/dinhanhthi.com-v1.git
+[submodule "projects/dinhanhthi.com-v2"]
+	path = projects/dinhanhthi.com-v2
+	url = https://github.com/dinhanhthi/dinhanhthi.com-v2.git
+[submodule "projects/dinhanhthi.com-v3"]
+	path = projects/dinhanhthi.com-v3
+	url = https://github.com/dinhanhthi/dinhanhthi.com-v3.git
