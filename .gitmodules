@@ -49,3 +49,6 @@
 [submodule "projects/dinhanhthi.com-v3"]
 	path = projects/dinhanhthi.com-v3
 	url = https://github.com/dinhanhthi/dinhanhthi.com-v3.git
+[submodule "tools/eleventy-elasticlunr-js"]
+	path = tools/eleventy-elasticlunr-js
+	url = https://github.com/dinhanhthi/eleventy-elasticlunr-js.git
